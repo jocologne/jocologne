@@ -2,7 +2,7 @@
 ![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jocologne&layout=compact&theme=radical)
 <!--[Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jocologne&show_icons=true&theme=radical)-->
 
-Meu perfil no LeetCode
+
 [Meu Perfil no LeetCode](https://leetcode.com/jocolognesi)
 
 
