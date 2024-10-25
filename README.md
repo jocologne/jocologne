@@ -4,6 +4,8 @@
 
 
 [Meu Perfil no LeetCode](https://leetcode.com/jocolognesi)
+[![LeetCode Stats](https://leetcode.card.workers.dev/?username=jocolognesi)](https://leetcode.com/jocolognesi/)
+
 
 
 
