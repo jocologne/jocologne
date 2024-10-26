@@ -1,5 +1,5 @@
 ## Hi there 👋
-<!--![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jocologne&layout=compact&theme=radical)-->
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jocologne&layout=compact&theme=radical)
 <!--[Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jocologne&show_icons=true&theme=radical)-->
 
 LeetCode  
