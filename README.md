@@ -4,11 +4,8 @@
 LeetCode  
 [![LeetCode Stats](https://leetcode.card.workers.dev/?username=jocolognesi)](https://leetcode.com/jocolognesi/)
 
-
-
-
-
-
+HackerRank
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/seu_usuario_hackerrank)
 
 <!--
 **jocologne/jocologne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
