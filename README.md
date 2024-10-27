@@ -2,6 +2,7 @@ LeetCode
 [![LeetCode Stats](https://leetcode.card.workers.dev/?username=jocolognesi)](https://leetcode.com/jocolognesi/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jocologne&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocologne&layout=compact&theme=radical)
 
 
 <!--
