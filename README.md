@@ -1,7 +1,7 @@
 LeetCode  
 [![LeetCode Stats](https://leetcode.card.workers.dev/?username=jocolognesi)](https://leetcode.com/jocolognesi/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocologne&theme=radical&&langs_count=6&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocologne&theme=radical&&langs_count=6&layout=compact&card_width=500)
 
 <!--
 **jocologne/jocologne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
