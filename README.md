@@ -1,5 +1,5 @@
 LeetCode  
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=jocolognesi)](https://leetcode.com/jocolognesi/)
+[![LeetCode Stats](https://leetcode.card.workers.dev/?username=jocolognesi)](https://leetcode.com/jocolognesi/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocologne&theme=radical&&langs_count=8&layout=compact&card_width=498)
 
